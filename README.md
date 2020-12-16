@@ -6,4 +6,4 @@ A slider built using React, JS and the state is managed with React-Redux
 JavaScript, React, React-Redux, Redux, SCSS, Webpack, Babel, Eslint, Stylelint.
 
 ### Demo:
-![react-redux-slider-1](https://user-images.githubusercontent.com/66952678/102409457-fe83a380-3fe6-11eb-9c17-29a57fea855a.gif)
+![react-redux-slider-2](https://user-images.githubusercontent.com/66952678/102411021-43a8d500-3fe9-11eb-8317-9984de3b3a56.gif)
