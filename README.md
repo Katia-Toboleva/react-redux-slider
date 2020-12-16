@@ -1,4 +1,4 @@
-##Slider build with React-Redux.
+## Slider build with React-Redux.
 ### Description: 
 A slider built using React, JS and the state is managed with React-Redux
 
