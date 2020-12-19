@@ -1,6 +1,6 @@
 ## Slider build with React-Redux.
 ### Description: 
-A slider built using React, JS and the state is managed with React-Redux
+A slider built using React, JS and the state is managed with React-Redux.
 
 ### Technologies: 
 JavaScript, React, React-Redux, Redux, SCSS, Webpack, Babel, Eslint, Stylelint.
